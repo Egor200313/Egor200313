@@ -6,13 +6,6 @@
 
 ---
 
-*Contacts*
-
-Telegram: [Egor Burdin](https://t.me/egych13)
-
-VK: [Egor Burdin](https://vk.com/egych13)
-
-📫 burdin.es@phystech.edu
  
 
 <!---
