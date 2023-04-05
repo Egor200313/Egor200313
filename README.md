@@ -1,6 +1,6 @@
 👋 Hi, I’m Egor
 
-📚 MIPT DIHT Applied Mathematics and Computer Science student
+📚 Applied Mathematics and Computer Science student
 
 💻 C/C++ Python Golang
 
